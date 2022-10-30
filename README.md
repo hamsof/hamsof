@@ -2,14 +2,16 @@
 
 Hey its Hafiz Abdulmanan and I am currently enrolled in PUCIT`23. Passionate about creating systems related to Java/Python/Js 
 
-## &#x1f4c8; GitHub Stats
+## ⚙️ &nbsp;GitHub Score
 
-<a href="https://github.com/hamsof/hamsof">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsof&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<p align="center">
+<a href="https://github.com/hamof">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamsof&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamsof&layout=compact&langs_count=15&theme=algolia"/>
 </a>
-<a href="https://github.com/hamsof/hamsof">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamsof&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ali's GitHub Stats" />
-</a>
+</p>
+
+<br/>
 
 
 
