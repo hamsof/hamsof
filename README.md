@@ -2,7 +2,20 @@
 
 # Hello, Techy!
 
-Hey its Hafiz Abdulmanan and I am currently enrolled in PUCIT`23. Passionate about creating systems related to Java/Python/Js 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
+  
+### 🧐 whoami:
+
+- 🔭 &nbsp; I’m currently enrolled in PUCIT`23;
+- 🤝 &nbsp; I love to work on cutting edge technologies;
+- 🌱 &nbsp; I’m currently learning Python (Chalice,Flask,AWS); 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hamsof?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/hafiz-abdulmanan-7583b21aa/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📚 &nbsp; When I am free, I play Cricket, Table Tennis and enjoy Gardening and traveling 
+
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
