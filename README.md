@@ -1,6 +1,6 @@
 # Hello, Techy!
 
-Hey its Hafiz Abdulmanan and I am currently enrolled in PUCIT`23.
+Hey its Hafiz Abdulmanan and I am currently enrolled in PUCIT`23. Passionate about creating systems related to Java/Python/Js 
 
 ## &#x1f4c8; GitHub Stats
 
