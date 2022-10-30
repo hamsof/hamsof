@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif);
+
 # Hello, Techy!
 
 Hey its Hafiz Abdulmanan and I am currently enrolled in PUCIT`23. Passionate about creating systems related to Java/Python/Js 
