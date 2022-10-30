@@ -49,6 +49,6 @@ Hey its Hafiz Abdulmanan and I am currently enrolled in PUCIT`23. Passionate abo
 
 ## 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/hafiz-abdulmanan-7583b21aa/"><img src="https://img.shields.io/badge/-Shoaib%20Kakkal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hafizabdulman@gmail.com"><img src="https://img.shields.io/badge/-shoaibkakil@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hafiz-abdulmanan-7583b21aa/"><img src="https://img.shields.io/badge/-Hafiz%20Abdulmanan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hafizabdulman@gmail.com"><img src="https://img.shields.io/badge/-hafizabdulman@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
