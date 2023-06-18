@@ -6,7 +6,7 @@
 
 - 📚 &nbsp; I’m currently enrolled in PUCIT`23;
 - 🤝 &nbsp; I love to work on cutting edge technologies;
-- 🌱 &nbsp; I’m currently learning Python (Django,Chalice,Flask,AWS); 
+- 🌱 &nbsp; Making my footSteps to JS ecosystem (Angular, Node, TS)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hamsof?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/hafiz-abdulmanan-7583b21aa/)
