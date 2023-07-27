@@ -4,7 +4,7 @@
   
 ### 🧐 whoami:
 
-- 📚 &nbsp; I’m currently enrolled in PUCIT`23;
+- 📚 &nbsp; Software Engineer at Rewaa (Changing Retail ecosystem of KSA)
 - 🤝 &nbsp; I love to work on cutting edge technologies;
 - 🌱 &nbsp; Making my footSteps to JS ecosystem (Angular, Node, TS)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hamsof?tab=repositories)
