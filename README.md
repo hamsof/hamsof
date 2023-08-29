@@ -31,8 +31,7 @@
 
 <p align="center">
 <a href="https://github.com/hamsof">
-  ![Hafiz Abdulmanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamsof&show_icons=true)
-  ![Hafiz Abdulmanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamsof&show_icons=true&theme=dracula)
+  [![Hafiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamsof)](https://github.com/hamsof/github-readme-stats)
 </a>
 </p>
 
