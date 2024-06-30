@@ -12,7 +12,7 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/hafiz-abdulmanan-7583b21aa/)
 - 📝 &nbsp; Checkout my [resume](https://github.com/hamsof/Resume)
 - 🔭&nbsp; When I am free, I play Cricket and Table Tennis
-- - 📝 &nbsp; Recent book read: Richest Man in Babylon
+- 📝 &nbsp; Recent book read: The Richest Man in Babylon
 
 <br>
 
