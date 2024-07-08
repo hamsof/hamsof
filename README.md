@@ -7,11 +7,9 @@
 - 📚 &nbsp; Software Engineer at Rewaa (Changing Retail ecosystem of KSA)
 - 🤝 &nbsp; I love to work on cutting edge technologies;
 - 🌱 &nbsp; Making my footSteps to JS ecosystem (Angular, Node, TS)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hamsof?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/hafiz-abdulmanan-7583b21aa/)
 - 📝 &nbsp; Checkout my [resume](https://github.com/hamsof/Resume)
-- 🔭&nbsp; When I am free, I play Cricket and Table Tennis
 - 📝 &nbsp; Recent book read: The Richest Man in Babylon
 
 <br>
