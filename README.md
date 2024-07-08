@@ -5,8 +5,7 @@
 ### 🧐 whoami:
 
 - 📚 &nbsp; Software Engineer at Rewaa (Changing Retail ecosystem of KSA)
-- 🤝 &nbsp; I love to work on cutting edge technologies;
-- 🌱 &nbsp; Making my footSteps to JS ecosystem (Angular, Node, TS)
+- 🌱 &nbsp; Making my footSteps to JS ecosystem
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/hafiz-abdulmanan-7583b21aa/)
 - 📝 &nbsp; Checkout my [resume](https://github.com/hamsof/Resume)
@@ -16,6 +15,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square);
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -23,6 +23,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <br/>
 
