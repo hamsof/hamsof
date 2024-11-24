@@ -28,20 +28,6 @@
 
 <br/>
 
-## ⚙️ &nbsp;GitHub Score
-
-<p align="center">
-<a href="https://github.com/hamsof">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamsof&layout=compact&langs_count=15&theme=algolia"/>
-</a>
-</p>
-
-<br/>
-
-
-
-
-  
 
 <!-- links to social media icons -->
 
