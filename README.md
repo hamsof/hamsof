@@ -1,4 +1,4 @@
-# Hello, Techy!
+# Hope you are in pink!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
   
