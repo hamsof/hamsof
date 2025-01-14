@@ -4,10 +4,10 @@
   
 ### 🧐 whoami:
 
-- 📚 &nbsp; Software Engineer at Rewaa (Empowering Retail ecosystem of KSA)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/hafiz-abdulmanan-7583b21aa/)
-- 📝 &nbsp; Checkout my [resume](https://github.com/hamsof/Resume)
-- 📝 &nbsp; Recent book read: The Richest Man in Babylon
+- Software Engineer at Rewaa (Empowering Retail ecosystem of KSA)
+- Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/hafiz-abdulmanan-7583b21aa/)
+- Checkout my [resume](https://github.com/hamsof/Resume)
+-  Recent book read: The Richest Man in Babylon
 
 <br>
 
