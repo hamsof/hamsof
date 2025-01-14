@@ -16,8 +16,6 @@
 ![TypeScript](https://shields.io/badge/-TypeScript-05122A?style=flat&logo=typeScript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws)
 
